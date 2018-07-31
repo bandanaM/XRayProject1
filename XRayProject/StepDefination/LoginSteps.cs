@@ -66,6 +66,5 @@ namespace XRayProject.StepDefination
             Assert.That(element.Text, Is.Not.Null, "Header Text is not Found");
 
         }
-
     }
 }
